@@ -69,7 +69,7 @@ chmod +x RealiTLScanner-linux-amd64
 - amneziaWG.
 
 
-amneziawg-installer(cli) - ставит AmneziaWG 2.0 (модуль ядра через DKMS), настраивает firewall и форвардинг, создаёт первого клиента, печатает QR-код и vpn:// ссылку для импорта в Amnezia Client. Делает все то же самое, что и официальный клиент. Преимущество: устанавливает в ядре, без Docker и панелей - нет накладных расходов.
+amneziawg-installer(cli) - ставит AmneziaWG 2.0 (модуль ядра через DKMS), настраивает firewall и форвардинг, создаёт первого клиента, печатает QR-код и vpn:// ссылку для импорта в Amnezia Client. Делает все то же самое, что и официальный клиент. Отличие: вся настройка через текстовые конфиги (консоль). Преимущество: устанавливает в ядре, без Docker и панелей - нет накладных расходов.
 Ссылка на amneziawg-installer(cli):
 https://github.com/bivlked/amneziawg-installer
 
